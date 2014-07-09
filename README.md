@@ -1,4 +1,5 @@
-problems
-========
+Common programming problems
+===========================
 
-Some solutions to common programming interview problems.
+Here are some solutions to common programming interview problems.
+Suggestions, comments, contributions: pvaldes@milkshakes.org
