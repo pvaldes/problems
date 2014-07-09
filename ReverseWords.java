@@ -15,7 +15,7 @@ public class ReverseWords {
 		int pivot = numberOfWords -1;
 		int key = 0;
 
-        // Add non-empty words in inverse order to Hashtable H from String[] words.
+        	// Add non-empty words in inverse order to Hashtable H from String[] words.
 		while(pivot>=0 && key < numberOfWords) {
 			if(!words[pivot].isEmpty()) {
 				H.put(key, words[pivot]);
